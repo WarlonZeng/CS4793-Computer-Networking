@@ -1,2 +1,2 @@
-# CS-6843-Python
-Also known as CS-4793, work on networking via Python programming language
+# CS-4793-Computer-Networking
+Also known as CS-6843, where undergraduates and graduates learn computer networking with python in the same class. Goes over network flows in distributed systems.
